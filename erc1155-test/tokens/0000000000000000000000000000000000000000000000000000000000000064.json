@@ -1,11 +1,11 @@
 {
-	"image": "https://3jtek.github.io/sample-project-metadata/erc1155-test/tokens/soulbound.png",
+	"image": "https://ipfs.io/ipfs/QmPUmzKN2BX8uAqk5D8ibYGceB5Dpew6TnH69r5mux6F19",
 	"token_id": "100",
+	"name": "Key Soulbound Token",
+	"description": "Forged at the dawn of Fates, the Key Soulbound Token marks your legacy as a founding supporter of Might & Magic Fates.",
+	"external_url": "https://www.mightandmagicfates.com/",
 	"background_color": null,
 	"animation_url": null,
 	"youtube_url": null,
-	"name": "Soulbound Ashan Key",
-	"description": "This is the first Soulbound Ashan Key for MMFATE",
-	"external_url": null,
 	"attributes": []
 }
